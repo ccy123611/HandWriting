@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/KMainWindow"/>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/multbackground.png</file>
+        <file>image/multwrite.png</file>
+        <file>image/peiqi.png</file>
+        <file>image/setting.png</file>
+        <file>image/singlewrite.png</file>
+        <file>image/sogou.png</file>
+    </qresource>
+</RCC>
